@@ -1,0 +1,4 @@
+Revision history for Perl extension Plack::Middleware::AccessControlAllowOrigin
+
+0.01    Sat Apr 23 05:38:05 2011
+        - original version
